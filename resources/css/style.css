@@ -31,13 +31,13 @@ body{
     list-style: none;
     padding-top: 25px;
     width: 50%;
-    background-color: #e67e22;
+    background-color: #F8EFBA;
 }
 
 .main-nav a{
     text-decoration: none;
     display: inline-block;
-    color: #ffffff;
+    color: #6D214F;
     font-size: 140%;
 }
 
@@ -46,7 +46,7 @@ body{
     font-weight: 400;
     padding-top: 5%;
     padding-bottom: 5%;
-    color: #ffffff;
+    color: #6D214F;
 }
 
 .hero h1,form{

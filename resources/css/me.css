@@ -1,0 +1,28 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.photo img{
+    height: 150px;
+    border-radius: 50%;
+    width: 20%;   
+}
+.photo{
+    width: 100%;
+    padding-left: 45%;
+    padding-top: 50px;
+    
+}
+.photo p{
+    padding: 1% 1%;
+    font-size: 150%;
+}
+
+.para{
+    
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-size: 110%;
+    text-align: center;
+}
